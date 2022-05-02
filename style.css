@@ -9,7 +9,7 @@ body {
 	padding: 10px;
 }
 .row {
-	background-color: gray;
+	background-color: #bfbfbf;
 	border: 1px solid black;
 	margin:1% ;
 	height: auto;
@@ -26,14 +26,14 @@ body {
 	margin: 0;
 }
 .row .bg_pink {
-	background-color: hotpink;
+	background-color: #d59898;
 }
 .row .bg_maroon {
-	background-color: maroon;
+	background-color: #c14543;
 	color: #fff;
 }
 .row .bg_yellow {
-	background-color: yellow;
+	background-color: #e5d198;
 }
 /*** small devices***/
 @media (max-width: 767px) {
